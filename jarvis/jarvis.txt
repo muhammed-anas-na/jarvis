@@ -1,0 +1,133 @@
+JARVIS is an assistance which can help you throught voice command
+Language used : Python🐍
+What can Jarvis do?🤔
+
+Here is the list of some command that jarvs can do🚀
+
+command : salena gomez wikipedia
+For this command to work we need to import wikipedia module (pip install wikipedia). This command searches selena gomez in wikipedia and give what iis found on wikipedia abuot salena gomez
+in just 2 sentences.
+======================================
+command : open chrome
+This command helps to open chrome
+======================================
+command : chrome {automation command}
+This command can help you to automate your chrome browser. eg: "chrome new tab" opens new tab in chrome
+======================================
+command : close {window that you want to close}
+This command can help you with closing the opened softwares in your pc. eg: "close chrome"
+======================================
+command : open youtube
+It opens youtube in webbrowser
+======================================
+command : Open google
+It opens google in webbrowser
+======================================
+command : the time
+It replays with the current time in your pc
+======================================
+command : camera
+It helps to open webcame in your camera
+======================================
+command : shutdown , kill
+It will destroy the jarvis file and open wake_up.py
+======================================
+command : weather around:
+It replays with the current weather detials in your area
+======================================
+command : whatsapp message to salim (you can also say : "jarvis please send whatsapp message to salim". it is not specified)
+This command requires modules time and keyboard.It will send whatsapp message to the name we have said in this case it is salim.
+======================================
+command : weather at delhi
+This helps to find the weather details of a specific place. It will also provide the location of the place,time,weathe info and temparature.
+======================================
+command : activate how to do module
+This is a mode that you can learn something. eg: How to make cake. It will say the step by step instruction for making cake
+======================================
+command : music
+It will play the music in my system
+======================================
+command : instagram message to rasik
+This will send instagram message to my friend rasik his instagram id is already specified.
+======================================
+command : email to anas
+This will send a email to the person we are specified. Anas's email adress is specified already.
+======================================
+command : ipadress
+It will return my ipadress
+======================================
+command : volume up
+Increase the colume by 2%
+======================================
+command : volume down
+Decrese the volume by 2%
+======================================
+command : mute
+This will mute the system volume
+======================================
+command : search salena gomez in youtube
+It will open youtube and search salena gomez
+======================================
+command : nasa news
+It will return todays new in nasa
+======================================
+command : system info
+It helps to find the system info of your computer
+======================================
+command : screenshort 
+it will take a screen short
+======================================
+command : signin
+It is just to remain that your are in this room and you are activate
+======================================
+command : Describe yourself
+System will describe it's self
+======================================
+command : pdf details
+This will return will the pdf details.currently there is only one pdf file so that i specified the file
+======================================
+command : read zero to one
+This will search for the pdf and read the text on it
+======================================
+command : check instagram message
+It will say if you have new message or not
+======================================
+command : jarvis tell me some jokes
+It will responde with some random jokes
+======================================
+command : tongue twister
+It will responde with some random tongue twister
+======================================
+command : play a game
+You can play a minimum number of games.After selecting the game you will be redirected to Gamezop.com to play the game
+======================================
+command : Login into my instagram account
+It will use selenium module to automate browser and login into your instagram account
+======================================
+command : Login into my linked account
+It will use selenium to automate browser and login into my linked account
+======================================
+command : whats your name
+"I am jarvis"
+======================================
+command : postal code of pattimattom
+683562
+======================================
+command : tell me about ferrari
+search about ferrari in google and responde with a result
+======================================
+command : what is the height of burj khalifa
+responde with a result
+======================================
+command : distance between newyork and washington
+response with a result
+======================================
+command : covid updates
+Response with the latest covid casses in the world
+======================================
+command : what is Python🐍
+search python in google and response with a result
+======================================
+command :sleep
+jarvis will be silent for 50sec
+======================================
